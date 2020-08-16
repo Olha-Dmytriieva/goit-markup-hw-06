@@ -948,12 +948,8 @@ padding-left: 0px;
     border-radius: 4px;
     background: #2F303A;
     box-sizing: border-box;
-    padding: 16px;
+    padding-left: 16px;
     color: #fff;
-}
-
-.input-footer::placeholder{
-    padding: 16px;
 }
 
 .input-footer:focus{
